@@ -1,0 +1,46 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotspareBin[0m ===================
+PDF File Path: output/receipts/order-number-1.pdf
+Screenshot Path: output/screenshots/robot-screenshot-1.png
+PDF File Path: output/receipts/order-number-2.pdf
+Screenshot Path: output/screenshots/robot-screenshot-2.png
+PDF File Path: output/receipts/order-number-3.pdf
+Screenshot Path: output/screenshots/robot-screenshot-3.png
+PDF File Path: output/receipts/order-number-4.pdf
+Screenshot Path: output/screenshots/robot-screenshot-4.png
+PDF File Path: output/receipts/order-number-5.pdf
+Screenshot Path: output/screenshots/robot-screenshot-5.png
+PDF File Path: output/receipts/order-number-6.pdf
+Screenshot Path: output/screenshots/robot-screenshot-6.png
+PDF File Path: output/receipts/order-number-7.pdf
+Screenshot Path: output/screenshots/robot-screenshot-7.png
+PDF File Path: output/receipts/order-number-8.pdf
+Screenshot Path: output/screenshots/robot-screenshot-8.png
+PDF File Path: output/receipts/order-number-9.pdf
+Screenshot Path: output/screenshots/robot-screenshot-9.png
+PDF File Path: output/receipts/order-number-10.pdf
+Screenshot Path: output/screenshots/robot-screenshot-10.png
+PDF File Path: output/receipts/order-number-11.pdf
+Screenshot Path: output/screenshots/robot-screenshot-11.png
+PDF File Path: output/receipts/order-number-12.pdf
+Screenshot Path: output/screenshots/robot-screenshot-12.png
+PDF File Path: output/receipts/order-number-13.pdf
+Screenshot Path: output/screenshots/robot-screenshot-13.png
+PDF File Path: output/receipts/order-number-14.pdf
+Screenshot Path: output/screenshots/robot-screenshot-14.png
+PDF File Path: output/receipts/order-number-15.pdf
+Screenshot Path: output/screenshots/robot-screenshot-15.png
+PDF File Path: output/receipts/order-number-16.pdf
+Screenshot Path: output/screenshots/robot-screenshot-16.png
+PDF File Path: output/receipts/order-number-17.pdf
+Screenshot Path: output/screenshots/robot-screenshot-17.png
+PDF File Path: output/receipts/order-number-18.pdf
+Screenshot Path: output/screenshots/robot-screenshot-18.png
+PDF File Path: output/receipts/order-number-19.pdf
+Screenshot Path: output/screenshots/robot-screenshot-19.png
+PDF File Path: output/receipts/order-number-20.pdf
+Screenshot Path: output/screenshots/robot-screenshot-20.png
+[96morder_robots_from_RobotspareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\User\Desktop\AdvancedRobot\output\log.html
